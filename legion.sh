@@ -1,7 +1,8 @@
 #!/bin/bash
 
-echo -e "\033[1;34mShellshock Command Injection Exploit\033[0m"
-
+echo -e "\033[1;34mCommand Injection Exploit\033[0m"
+echo
+echo "Built By Nketiah - h3k3rcon101" 
 target_url="http://10.0.30.121/cgi-bin/uptime"
 
 while true; do
